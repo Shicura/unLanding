@@ -1,0 +1,104 @@
+.container {
+    max-width: 1750px;
+    padding: 0 42px;
+    margin: 0 auto;
+}
+
+.header {
+    padding-top: 65px;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    line-height: 1.2;
+    font-weight: 400;
+    color: #fff;
+    
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu__center {
+    display: flex;
+    gap: 0 50px;
+}
+
+.search {
+    opacity: 0.7;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.promo{
+    background-image: url(../Promo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 287px;
+}
+
+/* .int {
+    background-image: url(../instagram.svg);
+}
+
+.fb {
+    background-image: url(../Facebook.svg);
+}
+
+.tw {
+    background-image: url(../twitter.svg);
+} */
+
+.promo__inner {
+    min-height: 100vh;
+    text-align: center;
+}
+
+/* .line {
+    width: 72px;
+    height: 2px;
+    background-color: #FFC178;
+} */
+
+/* .container__inner {
+    text-align: left;
+} */
+
+.slogan {
+    color: #FFC178;
+    font-weight: 700;
+    letter-spacing: 6px;
+    margin-bottom: 32px;
+}
+
+.subtitle {
+    font-size: 88px;
+    font-weight: 400;
+    /* text-align: left; */
+    line-height: 100px;
+    margin-bottom: 126px;
+}
+
+.word {
+    font-size: 96px;
+    font-weight: 700;
+    text-align: left;
+    line-height: 100px;
+}
+
+
+
+
+
+
